@@ -15,6 +15,6 @@ jobs:
         name: Close Issue
         uses: peter-evans/close-issue@v1
         with:
-          comment: |
+          comment: ! 
             Issue body must contain content.
             Auto-closing this issue.
